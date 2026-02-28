@@ -9,4 +9,4 @@
 
 ## My Commits
 
-[![My Commits](https://github-readme-activity-graph.vercel.app/graph?username=phigrostl&theme=github-compact&show_icons=true&custom_title=My%20Commits&days=60&point=26A641&area_color=26A64188)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![My Commits](https://github-readme-activity-graph.vercel.app/graph?username=phigrostl&theme=github-compact&show_icons=true&custom_title=My%20Commits&days=60&point=26A641&area_color=26A641)](https://github.com/Ashutosh00710/github-readme-activity-graph)
