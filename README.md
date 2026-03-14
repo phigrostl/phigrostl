@@ -1,11 +1,10 @@
 # たおりん
 
 ## Info
-> Right, I will use Chinese to write this README file, and if you can't understand it, please use translation tools.
 
-#### 学生，平常会写写类似渲染器，以及音视频处理的程序
-#### 主要使用 `C++` ，会 `Python`，`JS`，等
-#### [`Bilibili`](https://space.bilibili.com/1974426344) 的 UP 主，一般发些使用我的代码去统计与渲染音乐游戏的视频
+#### 学生，主要写类似渲染器，音视频处理的程序
+#### 主要使用 `C++` ， `Python`， `JS` ，等
+#### [`Bilibili`](https://space.bilibili.com/1974426344) 的 UP 主，发些使用我的代码去统计与渲染音乐游戏的视频
 
 ## Stats
 <table width="100%" cellspacing="0" cellpadding="0">
