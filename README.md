@@ -9,6 +9,7 @@
 
 ## Stats
 <table width="100%" cellspacing="0" cellpadding="0">
+  <tr></tr>
   <tr>
     <td colspan="2" width="100%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=phigrostl&theme=github-compact&show_icons=true&custom_title=My%20Commits&days=60&point=26A641&area_color=26A641" width="100%">
