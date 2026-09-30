@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td colspan="2" width="100%">
-      <img src="https://api.star-history.com/image?repos=phigrostl/phigrostl,phigrostl/PhiVideo,phigrostl/PhiRenderer,phigrostl/AutoPiano,phigrostl/RTL&type=date&legend=top-left" width="100%">
+      <img src="https://api.star-history.com/image?repos=phigrostl%2Fphiupdate%2Cphigrostl%2Fphivideo%2Cphigrostl%2Fphirenderer%2Cphigrostl%2Fautopiano%2Cphigrostl%2Frtl&type=date&legend=top-left" width="100%">
     </td>
   </tr>
 </table>
